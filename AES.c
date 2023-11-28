@@ -108,11 +108,7 @@ int generateKey(char *key) {
         printf("Error generating key\n");
         return 1;
     }
-
-    //You can write the key to a file
-
-
-
+    
     return 0;
 }
 

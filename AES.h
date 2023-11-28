@@ -1,5 +1,3 @@
-
-
 #ifndef AES_AES_H
 #include <stdio.h>
 #include <string.h>
